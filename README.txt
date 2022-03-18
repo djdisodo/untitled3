@@ -1,0 +1,1 @@
+a percentage abstraction for rust
